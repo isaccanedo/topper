@@ -1,0 +1,29 @@
+{
+  "name": "topper",
+  "version": "1.0.1",
+  "description": "Lightweight Node.js framework to build fast microservices on TCP Servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js",
+    "dev": "nodemon test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msfidelis/yeap.git"
+  },
+  "keywords": [
+    "tcp",
+    "microservices",
+    "gateway"
+  ],
+  "author": "Matheus Fidelis <msfidelis01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msfidelis/yeap/issues"
+  },
+  "homepage": "https://github.com/msfidelis/yeap#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  }
+}
