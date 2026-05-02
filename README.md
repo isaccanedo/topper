@@ -1,5 +1,4 @@
-
-# Architecture Benchmark
+## Architecture Benchmark
 
 ### Benchmark Tool
 
